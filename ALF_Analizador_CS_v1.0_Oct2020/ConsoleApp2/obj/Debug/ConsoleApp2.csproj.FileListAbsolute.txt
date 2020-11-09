@@ -1,0 +1,14 @@
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\2. Universidad\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\pedro\OneDrive\Documents\2. Universidad\Automatas\ALF_Analizador_CS_v1.0_Oct2020\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,5 @@
+mensaje "hola como estas"
+mensaje "vete a dormir"
+mensaje "x + 5"
+mensaje "adios"
+mensaje "end"

@@ -1,0 +1,6 @@
+El programa corre solo en Windows.
+
+1. Abrir la carpeta ConsoleApp2.
+2. Abrir la carpeta bin.
+3. Abrir la carpeta Debug.
+4. Ejecutar Run.

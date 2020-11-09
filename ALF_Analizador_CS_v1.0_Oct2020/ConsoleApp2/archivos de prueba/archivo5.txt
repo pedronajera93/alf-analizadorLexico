@@ -1,0 +1,8 @@
+hola este es un mensaje
+que mezcla palabras reservadas como
+
+
+mensaje
+end if
+y tambien operadores como
++ > = <=
